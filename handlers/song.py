@@ -59,8 +59,7 @@ def song(client, message):
         message.reply_audio(audio_file, caption=rep, thumb=thumb_name, parse_mode='md', title=title, duration=dur)
         m.delete()
     except Exception as e:
-        m.edit("**𝐘𝐨𝐮𝐭𝐮𝐛𝐞  𝐄𝐫𝐫𝐨𝐫 ❌ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫[❛-À๛4๛・ÀMÁÑ๛YÀDÁV๛Øffîçîàl ](https://t.me/A_4_AMAN_offiicial)
-             ) ❤️**")
+        m.edit("**𝐘𝐨𝐮𝐭𝐮𝐛𝐞  𝐄𝐫𝐫𝐨𝐫 ❌ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫[❛-À๛4๛・ÀMÁÑ๛YÀDÁV๛Øffîçîàl ](https://t.me/A_4_AMAN_offiicial ) ❤️**")
         print(e)
 
     try:
