@@ -250,7 +250,7 @@ async def play(_, message: Message):
                ],
                [
                     InlineKeyboardButton(
-                            text="À๛4๛・ÀMÁÑ๛YÀDÁV๛Øffîçîàl,
+                            text="À๛4๛・ÀMÁÑ๛YÀDÁV๛Øffîçîàl",
                             url=f"https://t.me/A_4_AMAN_Offiicial"),
                             
                     InlineKeyboardButton(
